@@ -1,0 +1,4884 @@
+{
+	"fixtures" : [ 		{
+			"name" : "",
+			"type" : "Generic Dimmer",
+			"modeName" : "1-channel",
+			"channel" : 1,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "light1",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 2,
+			"universe" : 1,
+			"tags" : [ 				{
+					"name" : "light1",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic Dimmer",
+			"modeName" : "1-channel",
+			"channel" : 1,
+			"universe" : 2,
+			"tags" : [ 				{
+					"name" : "light2",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 2,
+			"universe" : 2,
+			"tags" : [ 				{
+					"name" : "light2",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 1,
+			"universe" : 3,
+			"tags" : [ 				{
+					"name" : "light3",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 4,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 7,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 61
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 10,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 62
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 13,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 63
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 16,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 64
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 19,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 65
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 22,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 66
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 25,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 67
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 28,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 68
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 31,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 69
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 34,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 70
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 37,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 71
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 40,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 72
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 43,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 73
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 46,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 74
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 49,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 75
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 52,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 76
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 55,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 77
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 58,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 78
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 61,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 79
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 64,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 80
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 67,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 81
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 70,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 82
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 73,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 83
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 76,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 84
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 79,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 85
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 82,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 86
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 85,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 87
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 88,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 88
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 91,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 89
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 94,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 90
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 97,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 91
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 100,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 92
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 103,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 93
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 106,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 94
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 109,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 95
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 112,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 96
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 115,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 97
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 118,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 98
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 121,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 99
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 124,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 100
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 127,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 101
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 130,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 102
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 133,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 103
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 136,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 104
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 139,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 105
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 142,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 106
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 145,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 107
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 148,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 108
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 151,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 109
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 154,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 110
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 157,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 111
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 160,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 112
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 163,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 113
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 166,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 114
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 169,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 115
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 172,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 116
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 175,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 117
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 178,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 118
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 181,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 119
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 184,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 120
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 187,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 121
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 190,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 122
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 193,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 123
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 196,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 124
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 199,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 125
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 202,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 126
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 205,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 127
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 208,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 128
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 211,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 129
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 214,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 130
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 217,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 131
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 220,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 132
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 223,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 133
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 226,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 134
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 229,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 135
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 232,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 136
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 235,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 137
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 238,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 138
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 241,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 139
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 244,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 140
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 247,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 141
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 250,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 142
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 253,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 143
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 256,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 144
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 259,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 145
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 262,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 146
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 265,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 147
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 268,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 148
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 271,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 149
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 274,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 150
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 277,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 151
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 280,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 152
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 283,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 153
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 286,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 154
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 289,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 155
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 292,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 156
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 295,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 157
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 298,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 158
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 301,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 159
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 304,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 160
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 307,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 161
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 310,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 162
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 313,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 163
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 316,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 164
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 319,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 165
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 322,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 166
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 325,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 167
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 328,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 168
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 331,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 169
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 334,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 170
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 337,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 171
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 340,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 172
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 343,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 173
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 346,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 174
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 349,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 175
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 352,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 176
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 355,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 177
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 358,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 178
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 361,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 179
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 364,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 180
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 367,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 181
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 370,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 182
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 373,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 183
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 376,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 184
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 379,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 185
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 382,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 186
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 385,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 187
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 388,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 188
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 391,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 189
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 394,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 190
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 397,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 191
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 400,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 192
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 403,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 193
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 406,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 194
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 409,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 195
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 412,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 196
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 415,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 197
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 418,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 198
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 421,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 199
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 424,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 200
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 427,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 201
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 430,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 202
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 433,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 203
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 436,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 204
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 439,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 205
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 442,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 206
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 445,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 207
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 448,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 208
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 451,
+			"universe" : 4,
+			"tags" : [ 				{
+					"name" : "strip1",
+					"index" : 209
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 5,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 60
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 8,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 61
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 11,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 62
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 14,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 63
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 17,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 64
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 20,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 65
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 23,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 66
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 26,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 67
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 29,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 68
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 32,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 69
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 35,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 70
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 38,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 71
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 41,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 72
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 44,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 73
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 47,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 74
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 50,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 75
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 53,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 76
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 56,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 77
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 59,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 78
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 62,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 79
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 65,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 80
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 68,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 81
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 71,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 82
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 74,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 83
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 77,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 84
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 80,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 85
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 83,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 86
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 86,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 87
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 89,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 88
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 92,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 89
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 95,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 90
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 98,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 91
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 101,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 92
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 104,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 93
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 107,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 94
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 110,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 95
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 113,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 96
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 116,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 97
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 119,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 98
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 122,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 99
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 125,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 100
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 128,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 101
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 131,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 102
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 134,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 103
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 137,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 104
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 140,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 105
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 143,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 106
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 146,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 107
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 149,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 108
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 152,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 109
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 155,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 110
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 158,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 111
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 161,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 112
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 164,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 113
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 167,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 114
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 170,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 115
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 173,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 116
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 176,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 117
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 179,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 118
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 182,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 119
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 185,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 120
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 188,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 121
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 191,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 122
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 194,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 123
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 197,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 124
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 200,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 125
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 203,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 126
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 206,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 127
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 209,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 128
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 212,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 129
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 215,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 130
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 218,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 131
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 221,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 132
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 224,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 133
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 227,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 134
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 230,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 135
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 233,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 136
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 236,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 137
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 239,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 138
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 242,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 139
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 245,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 140
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 248,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 141
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 251,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 142
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 254,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 143
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 257,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 144
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 260,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 145
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 263,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 146
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 266,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 147
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 269,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 148
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 272,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 149
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 275,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 150
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 278,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 151
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 281,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 152
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 284,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 153
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 287,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 154
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 290,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 155
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 293,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 156
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 296,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 157
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 299,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 158
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 302,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 159
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 305,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 160
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 308,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 161
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 311,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 162
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 314,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 163
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 317,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 164
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 320,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 165
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 323,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 166
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 326,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 167
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 329,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 168
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 332,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 169
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 335,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 170
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 338,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 171
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 341,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 172
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 344,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 173
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 347,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 174
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 350,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 175
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 353,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 176
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 356,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 177
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 359,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 178
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 362,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 179
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 365,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 180
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 368,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 181
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 371,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 182
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 374,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 183
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 377,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 184
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 380,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 185
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 383,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 186
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 386,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 187
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 389,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 188
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 392,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 189
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 395,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 190
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 398,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 191
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 401,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 192
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 404,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 193
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 407,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 194
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 410,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 195
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 413,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 196
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 416,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 197
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 419,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 198
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 422,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 199
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 425,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 200
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 428,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 201
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 431,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 202
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 434,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 203
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 437,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 204
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 440,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 205
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 443,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 206
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 446,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 207
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 449,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 208
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+, 		{
+			"name" : "",
+			"type" : "Generic RGB",
+			"modeName" : "3-channel",
+			"channel" : 452,
+			"universe" : 5,
+			"tags" : [ 				{
+					"name" : "strip2",
+					"index" : 209
+				}
+ ],
+			"ranges" : [  ],
+			"testOn" : 0,
+			"children" : [  ],
+			"cells" : [  ]
+		}
+ ],
+	"version" : 1
+}

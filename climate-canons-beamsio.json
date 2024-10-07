@@ -1,0 +1,39 @@
+{
+	"inputs" : [  ],
+	"outputs" : [ 		{
+			"address" : "192.168.8.130",
+			"name" : "ArtNet",
+			"sourceUniverse" : 1,
+			"targetUniverse" : 1,
+			"type" : "artNet"
+		}
+, 		{
+			"type" : "artNet",
+			"name" : "ArtNet",
+			"address" : "192.168.8.146",
+			"sourceUniverse" : 2,
+			"targetUniverse" : 2
+		}
+, 		{
+			"type" : "artNet",
+			"name" : "ArtNet",
+			"address" : "192.168.8.218",
+			"sourceUniverse" : 3,
+			"targetUniverse" : 3
+		}
+, 		{
+			"type" : "artNet",
+			"name" : "ArtNet",
+			"address" : "192.168.8.154",
+			"sourceUniverse" : 4,
+			"targetUniverse" : 4
+		}
+, 		{
+			"type" : "artNet",
+			"name" : "ArtNet",
+			"address" : "192.168.8.113",
+			"sourceUniverse" : 5,
+			"targetUniverse" : 5
+		}
+ ]
+}
